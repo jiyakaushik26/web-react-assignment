@@ -6,18 +6,18 @@ The application allows students to explore hostel rooms, check availability, vie
 
 ## Student Details
 
-- **Name:** Your Name
-- **UID:** Your UID
+- **Name:** Jiya Kaushik
+- **UID:** 105
 - **Problem Statement:** P1 – Hostel Room Booking
 - **College:** Mirai School of Technology
 
 ## Live Demo
 
-🔗 **Vercel Deployment:** Add your deployed link here
+🔗 **Vercel Deployment:** https://web-react-assignment.vercel.app/
 
 ## GitHub Repository
 
-🔗 **Source Code:** Add your GitHub repository link here
+🔗 **Source Code:** https://github.com/jiyakaushik26/web-react-assignment.git
 
 ## Features
 
